@@ -18,5 +18,8 @@
     <ClCompile Include="euler\01 - problem.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="programmers\두 정수 사이의 합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
